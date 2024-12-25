@@ -11,7 +11,7 @@ http://yann.lecun.com/exdb/mnist/
 
 ### Usage
 
-To train the neural network, run the trainer.py file. The amount of tests, batches, batch size and amount of epochs can be configured in the trainer.py file. To use the drawing program, run the intRec.py file.
+To train the neural network, download the MNIST dataset and run the trainer.py file. The amount of tests, batches, batch size and amount of epochs can be configured in the trainer.py file. To use the drawing program, run the intRec.py file.
 
 ### Credits
 
